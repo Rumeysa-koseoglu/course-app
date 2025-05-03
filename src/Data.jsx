@@ -1,7 +1,7 @@
-import English from './images/English.jpg'
-import Arabic from './images/arabic.jpg'
-import Deutsch from './images/deutsch.jpg'
-import French from './images/french.jpg'
+import English from './images/English.png'
+import Arabic from './images/arabic.png'
+import Deutsch from './images/deutsch.png'
+import French from './images/french.png'
 
 export const courses = [
     {
