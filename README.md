@@ -1,8 +1,5 @@
 # My Courses App
 
-A simple React application that displays language courses (English, Arabic, French, German) using Material UI cards.
-Each course includes an image, description, and price.
-
 This is a simple-mini courses application. It prepared using React and Material UI. There are cards that list language courses. And each course includes an image, description, and price
 
 ![App Screenshot](./src/assets/course-app-screenshot.png)
