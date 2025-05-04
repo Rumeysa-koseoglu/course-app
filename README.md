@@ -1,12 +1,65 @@
-# React + Vite
+# My Courses App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that displays language courses (English, Arabic, French, German) using Material UI cards.
+Each course includes an image, description, and price.
 
-Currently, two official plugins are available:
+This is a simple-mini courses application. It prepared using React and Material UI. There are cards that list language courses. And each course includes an image, description, and price
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](./src/assets/course-app-screenshot.png)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- List of language courses using MUI cards
+- Google Fonts & Font Awesome integration
+- Mobile responsive design with CSS and media queries
+- Clean layout and accessible UI elements
+
+
+
+## Tech Stack
+
+- React
+- Vite
+- Material UI
+- Google Fonts
+- CSS (with media queries)
+
+
+
+
+## Installation
+
+To run this project locally:
+
+```bash
+1. Clone the repository:
+git clone https://github.com/Rumeysa-koseoglu/course-app
+
+2. Move into the project directory
+cd course-app
+
+3. Install dependencies
+npm install
+
+4. Start the development server    
+npm run dev
+```
+
+    Then visit http://localhost:5137 in your browser
+
+
+## What I Learned
+
+--With this project I learned
+
+- How to use Material UI components like Card and Typography
+- Applying responsive design
+- Styling with `sx` and custom CSS
+- Structuring a React project and managing props
+- Writing meaningful Git commit messages
+
+
+
+## About Me
+I built this app as a practice project while learning React and Material UI.
+
